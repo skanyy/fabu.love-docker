@@ -2,7 +2,7 @@
 
 > ps：请先安装docker
 1. 下载源码  `git clone https://github.com/skanyy/fabu.love-docker.git`
-2. 执行`cd docker`
+2. 执行`cd fabu.love-docker`
 3. 执行`docker-compose up -d --build`
 4. 打开浏览器 http://0.0.0.0:9898
 
