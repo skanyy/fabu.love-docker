@@ -1,3 +1,11 @@
+使用docker运行（建议）
+ps：请先安装docker
+
+下载源码 git clone https://github.com/skanyy/fabu.love-docker.git
+执行cd docker
+执行docker-compose up -d --build
+打开浏览器 http://0.0.0.0:9898
+
 ### 镜像构建说明
 
 - server
