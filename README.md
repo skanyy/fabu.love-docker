@@ -1,11 +1,10 @@
-skanyy/fabu.love-docker
-### 使用docker运行（建议）
-ps：请先安装docker
+#### 使用docker运行（建议）
 
-下载源码 git clone https://github.com/skanyy/fabu.love-docker.git
-执行cd docker
-执行docker-compose up -d --build
-打开浏览器 http://0.0.0.0:9898
+> ps：请先安装docker
+1. 下载源码  `git clone https://github.com/skanyy/fabu.love-docker.git`
+2. 执行`cd docker`
+3. 执行`docker-compose up -d --build`
+4. 打开浏览器 http://0.0.0.0:9898
 
 ### 镜像构建说明
 
