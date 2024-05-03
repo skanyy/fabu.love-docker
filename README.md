@@ -1,4 +1,5 @@
-使用docker运行（建议）
+skanyy/fabu.love-docker
+### 使用docker运行（建议）
 ps：请先安装docker
 
 下载源码 git clone https://github.com/skanyy/fabu.love-docker.git
